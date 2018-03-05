@@ -10,7 +10,7 @@ void setup() {
 
 // the loop routine runs over and over again forever:
 void loop() {
-  // set the brightness of pin 9:
+  // set the brightness of pin 5:
   analogWrite(led, brightness);
 
   // change the brightness for next time through the loop:
